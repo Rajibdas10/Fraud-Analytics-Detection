@@ -1,5 +1,5 @@
 # Fraud Detection Using SQL
-![Visualization of a fraud detection system with transaction monitoring](path/to/image)
+![Visualization of a fraud detection system with transaction monitoring](image-600x400.jpg)
 ## Project Overview
 This project focuses on identifying and analyzing fraudulent financial transactions using SQL. The dataset includes over 1 million transactions and explores patterns, trends, and anomalies to detect fraudulent activity. Through advanced SQL queries, we derive actionable insights, ensuring the analysis is scalable and relevant across various industries.
 
