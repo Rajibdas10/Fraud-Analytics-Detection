@@ -54,28 +54,13 @@ The dataset consists of 11 key columns:
 
 ---
 
-## SQL Scripts
-This repository contains SQL scripts used to perform the analysis:
-----------------------------------------------------------------------------
-| Script Name             | Purpose                                        |
-|-------------------------|----------------------------------------------- |
-| `fraud_detection.sql`   | Identify fraudulent transactions               |
-| `high_risk_accounts.sql`| Flag high-risk accounts                        |
-| `fraud_by_type.sql`     | Analyze fraud distribution by transaction type |
-| `balance_anomalies.sql` | Detect discrepancies in account balances       |
-----------------------------------------------------------------------------
----
-
-
 ## How to Use This Repository
 1. Clone this repository:
    ```bash
    git clone https://github.com/Rajibdas10/Fraud-Analytics-Detection/blob/main/Fraud%20Analytics%20and%20Detection.sql
    ```
-2. Import the SQL scripts into MySQL Workbench.
-3. Use the sample dataset, and download it [here](https://www.kaggle.com/datasets/ealaxi/paysim1).
-4. For the complete dataset, download it [here](https://your-dataset-link.com).
-
+2. Import the SQL scripts into your prefered database system.
+3. Use the dataset, and download it [here](https://www.kaggle.com/datasets/ealaxi/paysim1).
 ---
 
 ## Challenges Addressed
