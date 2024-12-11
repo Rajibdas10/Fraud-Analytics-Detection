@@ -1,4 +1,4 @@
-
+![Alt text for the image](E:\GOOGLE professional certificate docs\Project need to to be uploaded on GIT\Fraud detection).
 # Fraud Detection Using SQL
 
 ## Project Overview
