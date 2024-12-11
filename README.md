@@ -1,4 +1,4 @@
-[logo](image-894x540.jpg)
+![logo](image-894x540.jpg)
 # Fraud Detection Using SQL
 
 ## Project Overview
