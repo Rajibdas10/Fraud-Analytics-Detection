@@ -1,4 +1,4 @@
-![Alt text for the image](E:\GOOGLE professional certificate docs\Project need to to be uploaded on GIT\Fraud detection).
+![Alt text for the image](https://github.com/Rajibdas10/Fraud-Analytics-Detection/blob/main/A%20visually%20striking%20illustration%20of%20a%20fraud%20detection%20system%20in%20action%20within%20the%20context%20of%20banking%20transactions..webp).
 # Fraud Detection Using SQL
 
 ## Project Overview
