@@ -8,7 +8,7 @@ This project focuses on identifying and analyzing fraudulent financial transacti
 
 ## Key Features
 - **Domain:** Financial Fraud Detection
-- **Tools Used:** MySQL Workbench, Python (for preprocessing), Power BI (for visualization)
+- **Tools Used:** MySQL Workbench, Python (for preprocessing)
 - **Dataset Size:** 1 million+ transactions
 - **Core Objectives:**
   - Detect fraudulent transactions.
@@ -66,19 +66,15 @@ This repository contains SQL scripts used to perform the analysis:
 ----------------------------------------------------------------------------
 ---
 
-## Visualizations
-We used Power BI to create dashboards for a better understanding of fraud trends and patterns. 
 
 ## How to Use This Repository
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/fraud-detection-sql.git
+   git clone https://github.com/Rajibdas10/Fraud-Analytics-Detection/blob/main/Fraud%20Analytics%20and%20Detection.sql
    ```
 2. Import the SQL scripts into MySQL Workbench.
-3. Use the sample dataset, download it [here](https://www.kaggle.com/datasets/ealaxi/paysim1) .
+3. Use the sample dataset, and download it [here](https://www.kaggle.com/datasets/ealaxi/paysim1).
 4. For the complete dataset, download it [here](https://your-dataset-link.com).
-5. Visualize insights using Power BI dashboards available in the `dashboards/` folder.
-
 
 ---
 
