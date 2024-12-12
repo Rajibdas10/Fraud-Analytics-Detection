@@ -79,5 +79,5 @@ The dataset consists of 11 key columns:
 ## Contact
 For inquiries, reach out:
 - **Email:** rajibdas10.10.1999@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/rajib-das-4a6063215](https://www.linkedin.com/in/rajib-das-4a6063215/)
+- **LinkedIn:** [Rajib Das](https://www.linkedin.com/in/rajib-das-4a6063215)
 
