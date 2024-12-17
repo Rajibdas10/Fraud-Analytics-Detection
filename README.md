@@ -59,7 +59,7 @@ The dataset consists of 11 key columns:
    git clone Fraud Analytics and Detection.sql
    ```
 2. Import the SQL scripts into your preferred database system.
-3. Use the dataset, and download it [here](https://www.kaggle.com/datasets/ealaxi/paysim1).
+3. Use the dataset, and download it from [here](https://www.kaggle.com/datasets/ealaxi/paysim1).
 ---
 
 ## Challenges Addressed
