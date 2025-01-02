@@ -14,7 +14,6 @@ This project focuses on identifying and analyzing fraudulent financial transacti
   - Analyze transaction patterns across user groups.
   - Identify high-risk accounts and transactions.
   - Provide actionable insights to prevent future fraud.
-
 ---
 
 ## Dataset Description
